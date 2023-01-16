@@ -1,0 +1,5 @@
+Link de la imagen: https://www.e-contact.cl/wp-content/uploads/2022/06/Recurso-34.png
+Colores:
+rgb(33, 111, 177)blue
+rgb(44, 153, 163)green
+rgb(57, 57, 59)black
